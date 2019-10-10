@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: http://0olezheo0.github.io/sitemap.xml
